@@ -1,5 +1,5 @@
 FROM centos:7
-LABEL maintainer="test666"
+LABEL maintainer="_test666"
 COPY . .
 RUN yum -y update
 RUN yum -y install epel-release
