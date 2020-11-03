@@ -1,0 +1,9 @@
+flask
+regex
+requests
+pandas
+nltk
+pymorphy2
+config
+numpy
+datetime
